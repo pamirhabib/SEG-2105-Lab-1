@@ -1,1 +1,3 @@
 ahmad.txt
+
+Part 1: Commited and pushed changes
